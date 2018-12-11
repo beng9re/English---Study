@@ -1,6 +1,6 @@
 ### 영어 기초 문장 만들기 - 1Day
 <hr/>
- 1. 본 문장 + 세부사항 구조
+### 1. 본 문장 + 세부사항 구조
 
 * ##### 본 문장
   * I work  (나는 일한다)
@@ -20,5 +20,5 @@
   - by my self (나 혼자서)
 
 ###### EX) 본문장 + 세부사항 구조
- * I exercise(work out) at home by myself 2 hours a day.
- >저는 집에서 혼자서 하루에 2시간씩 운동을 해요
+  * I exercise(work out) at home by myself 2 hours a day.
+> 저는 집에서 혼자서 하루에 2시간씩 운동을 해요
